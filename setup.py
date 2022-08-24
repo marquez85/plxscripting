@@ -7,7 +7,7 @@ setup(
    description='essencial py files to run to connect plaxis',
    author='PLAXIS_FM',
    author_email='fpvsm85@gmail.com',
-   url="http://www.foopackage.example/",
+   url="https://github.com/marquez85/plxscripting/tree/main/plxscripting/",
    packages=find_packages(),
    entry_points={
        'console_script':[
